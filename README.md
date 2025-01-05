@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning Responsive CSS and Javascript.<br><br>🎯 Goals: Hoping to study software engineering at Imperial College London.<br><br>🎲 Fun fact: I'm colorblind</p>
+<p align="left">📚 I'm currently learning Responsive CSS and Javascript.<br><br>🎯 Goals: Hoping to study software engineering at Imperial College London.<br><br>🎲 Fun fact: I'm colorblind.</p>
 
 ###
 
