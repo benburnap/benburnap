@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">📚 Education: I'm currently learning Responsive CSS and Javascript.<br><br>🎯 Goals: Hoping to study software engineering at Imperial College London.<br><br>🎲 Fun Fact: I'm colorblind.<br><br>💬 Contact Me: "awesomebenskull" on discord.</p>
+<p align="left">📚 Education: I'm currently learning Responsive CSS and Javascript.<br><br>🎯 Goals: Hoping to study software engineering at Imperial College London.<br><br>🎲 Fun Fact: I'm colourblind.<br><br>💬 Contact Me: "awesomebenskull" on discord.</p>
 
 ###
 
