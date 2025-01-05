@@ -2,8 +2,6 @@
   <img src="https://i.imgur.com/pvEMpAi.jpeg" />
 </div>
 
-###
-
 <br clear="both">
 
 <h1 align="center">Hey 👋, I'm Ben</h1>
@@ -11,7 +9,7 @@
 ###
 
 <p align="left">My name is Ben Burnap, I'm 17 and I'm currently studying wiht hopes to become a frontend developer in the future.</p>
-
+---
 ###
 
 <h2 align="left">About me</h2>
