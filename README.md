@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://i.imgur.com/pvEMpAi.jpeg" />
+  <img src="https://i.imgur.com/pvEMpAi.jpeg" />
 </div>
 
 ###
@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgur.com/l6BoDTE.jpeg"/>
+  <img src="https://i.imgur.com/l6BoDTE.jpeg"/>
 </div>
 
 ###
