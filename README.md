@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://images.stockcake.com/public/8/a/8/8a8312eb-7a8e-4e42-a8fb-4546fd5123ab_large/sunset-over-city-stockcake.jpg"  />
+  <img height="200" src="https://i.imgur.com/pvEMpAi.jpeg" />
 </div>
 
 ###
@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://images.stockcake.com/public/8/a/8/8a8312eb-7a8e-4e42-a8fb-4546fd5123ab_large/sunset-over-city-stockcake.jpg"  />
+  <img height="200" src="https://i.imgur.com/l6BoDTE.jpeg"/>
 </div>
 
 ###
