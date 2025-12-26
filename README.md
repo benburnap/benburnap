@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/pvEMpAi.jpeg" />
+  
 </div>
 
 <h1 align="left">Hey 👋, I'm Ben</h1>
