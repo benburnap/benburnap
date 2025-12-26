@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <img src="https://i.imgur.com/l6BoDTE.jpeg"/>
+  
 </div>
 
 ###
