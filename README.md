@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Ben Burnap, I'm 17 and I'm currently studying with hopes to become a frontend developer in the future.</p>
+<p align="left">My name is Ben Burnap, I'm 18 and I'm currently studying with hopes to become a software developer in the future.</p>
 
 ###
 
