@@ -4,9 +4,9 @@
 
 <h1 align="left">Hey 👋, I'm Ben</h1>
 
-###
+<h2 align="left"><b>Aspiring Software Developer</b></h2>
 
-<p align="left">My name is Ben Burnap, I'm 18 and I'm currently studying with hopes to become a software developer in the future.</p>
+<p align="left">I'm currently studying Software Engineering at university and developing my skills across a range of areas within software development. I'm particularly interested in cybersecurity, artificial intelligence, and game development, while remaining open to exploring other areas of the industry.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">📚 Education: I'm currently learning Responsive CSS and Javascript.<br><br>🎯 Goals: Hoping to study software engineering at university.<br><br>🎲 Fun Fact: I'm colourblind.<br><br>💬 Contact Me: "awesomebenskull" on discord.</p>
+<p align="left">📚 Education: Studying Software Engineering at University of Southampton.<br><br>🎯 Goals: Improve my problem-solving and programming skills.<br><br>🎲 Fun Fact: I'm colourblind.<br><br>🧗 Other Interests: V7/7a+ Indoor Climber</p>
 
 ###
 
@@ -31,7 +31,7 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
 </div>
 
 ###
@@ -41,9 +41,12 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <a href="https://www.linkedin.com/in/ben-burnap-a26a51322/">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/756550463750537347">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
 </div>
 
 ###
